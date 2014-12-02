@@ -1,7 +1,7 @@
 {
     "Name" : "Multicast Sender ",
     "ShortDescription" : "This example demonstrates how to send messages to the clients of a multicast group.",
-    "DownloadLocation" : "https://api.github.com/repos/marcobubke/multicastsender/zipball/master",
+    "DownloadLocation" : "https://api.github.com/repos/marcobubke/multicastsender/zipball/eb92f61656e922b706e7cae02b59098a136220df",
     "Icon" : "network.png",
     "Id" : 9,
     "Tags" : "upd network advanced",
